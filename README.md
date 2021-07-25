@@ -8,6 +8,6 @@ The RIP-seq and ChIP-seq data are available in the Gene Expression Omnibus (GEO)
 
 ## Bioinformatics data analyses
 
-- [Analysis of datasets in *Liu et al. 2018*]](scripts/liu2018.md)
+- [Analysis of datasets in *Liu et al. 2018*](scripts/liu2018.md)
 - [RIP-seq](scripts/ripseq.md)
 - [ChIP-seq](scripts/chipseq.md)
