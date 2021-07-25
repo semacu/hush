@@ -3,9 +3,11 @@ This repository contains data availability and bioinformatics data analyses deve
 
 ## Data availability
 
-The RNA-seq and H3K9me3 ChIP-seq data were available in the Gene Expression Omnibus (GEO) under accession number GSE95374
+The RIP-seq and ChIP-seq data are available in the Gene Expression Omnibus (GEO) under accession number GSEXXXXX. The datasets from [*Liu et al. 2018*](https://www.nature.com/articles/nature25179) were obtained from GEO [GSE95374](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE95374)
 
 
 ## Bioinformatics data analyses
 
-- [RNA-seq and H3K9me3 ChIP-seq](scripts/hush.md)
+- [Analysis of datasets in *Liu et al. 2018*]](scripts/liu2018.md)
+- [RIP-seq](scripts/ripseq.md)
+- [ChIP-seq](scripts/chipseq.md)
