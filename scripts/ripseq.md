@@ -1,4 +1,6 @@
 
+## RIP-seq
+
 ### obtain fastq files
 
 ```bash
